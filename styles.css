@@ -8,3 +8,8 @@ P{
     color: black;
     text-align: center;
 }
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
